@@ -15,7 +15,3 @@
 	- 02-nn-basic: 第二章 神经网络入门
 	- 03-conv-basic: 第三章 卷积神经网络
 	- 04-advanced-conv: 第四章 卷积神经网络进阶
-
-
-数据地址：
-链接:https://pan.baidu.com/s/1cYxh7Msh6gySqKHn6K_UHQ  密码:1urd
