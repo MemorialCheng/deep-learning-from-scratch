@@ -15,3 +15,6 @@
 	- 02-nn-basic: 第二章 神经网络入门
 	- 03-conv-basic: 第三章 卷积神经网络
 	- 04-advanced-conv: 第四章 卷积神经网络进阶
+
+
+[推荐：这位童鞋的学习资料也可参考](https://github.com/543877815/neural-network-practise)
