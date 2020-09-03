@@ -5,9 +5,10 @@
 
 书名|百度云获取链接
 ----|----
-机器学习_周志华|链接：https://pan.baidu.com/s/14zFC4Zz9pVsP3LlhJuwKtA 提取码：lbl2
+机器学习_周志华(西瓜书)|链接：https://pan.baidu.com/s/14zFC4Zz9pVsP3LlhJuwKtA 提取码：lbl2
 深度学习入门：基于Python的理论与实现|链接：https://pan.baidu.com/s/1RouTbcRqtIs9XelHk18Ahw 提取码：1k29
 统计学习方法-李航-第2版|链接：https://pan.baidu.com/s/12hCoDnqqgPdhddOgmulVDA 提取码：wqif
+西瓜书配套南瓜书|链接：https://pan.baidu.com/s/1700zenTQAkDxgU99MTYxTg 提取码：i9o7
 
 <br>
 
