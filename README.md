@@ -1,4 +1,4 @@
-___相信您寻找 pdf、源代码已经很久了，是的，这里免费提供大家一起学习进步，如果帮到您希望您可以**Star**<br>
+___相信您寻找 pdf、源代码、课件已经很久了，是的，这里免费提供大家一起学习进步。收集整理不易，如果帮到您希望您可以点个赞**Star**<br>
 本项目将持续更新自己的学习笔记，欢迎一起交流。___
 
 # deep-learning-from-scratch
@@ -9,7 +9,8 @@ ___相信您寻找 pdf、源代码已经很久了，是的，这里免费提供�
 <br>
 # machinelearning-sklearn
 菜菜的机器学习sklearn，手把手教你利用sklearn进行机器学习实战，干货满满，非常棒！  
-收集了该课程全套课件资料+源码。B站传送门： [**菜菜的机器学习sklear**](https://www.bilibili.com/video/BV1vJ41187hk)
+这里收集了该课程全套课件资料+源码。  
+B站传送门： [**菜菜的机器学习sklear**](https://www.bilibili.com/video/BV1vJ41187hk)
 
 <br>
 
