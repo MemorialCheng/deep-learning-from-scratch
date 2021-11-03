@@ -9,7 +9,7 @@ ___相信您寻找 pdf、源代码已经很久了，是的，这里免费提供�
 <br>
 # machinelearning-sklearn
 菜菜的机器学习sklearn，手把手教你利用sklearn进行机器学习实战，干货满满，非常棒！  
-收集了该课程全套课件资料+源码。B站传送门：菜菜的机器学习sklear
+收集了该课程全套课件资料+源码。B站传送门： [**菜菜的机器学习sklear**](https://www.bilibili.com/video/BV1vJ41187hk)
 
 <br>
 
