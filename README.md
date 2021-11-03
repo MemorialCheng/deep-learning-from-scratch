@@ -15,7 +15,8 @@ ___相信您寻找 pdf、源代码已经很久了，是的，这里免费提供�
 ---- | -----
 deeplearning-from-mooc | 《深度学习之神经网络(CNN/RNN/GAN)算法原理+实战》
 deeplearning-from-scratch	| 《深度学习入门-基于Python的理论与实现》
-pdf |	pdf分享
+machinelearning-sklearn | 《菜菜的机器学习sklearn》
+pdf |	pdf资源分享
 learningnotes | 学习笔记
 <br>
 
