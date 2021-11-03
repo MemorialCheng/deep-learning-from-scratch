@@ -4,15 +4,12 @@ ___相信您寻找 pdf、源代码已经很久了，是的，这里免费提供�
 # deep-learning-from-scratch
 《深度学习入门-基于Python的理论与实现》，包含源代码和学习笔记。
 <br>
-
 # deeplearning-from-mooc
 根据慕课网imooc《深度学习之神经网络(CNN/RNN/GAN)算法原理+实战》，收集整理相关资料。
-
 <br>
-
 # machinelearning-sklearn
-菜菜的机器学习sklearn，非常棒！收集了该课程全套课件资料+源码。  
-B站传送门：菜菜的机器学习sklear
+菜菜的机器学习sklearn，手把手教你利用sklearn进行机器学习实战，干货满满，非常棒！  
+收集了该课程全套课件资料+源码。B站传送门：菜菜的机器学习sklear
 
 <br>
 
