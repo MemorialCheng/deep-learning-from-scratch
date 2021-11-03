@@ -16,7 +16,11 @@
 11XGBoost | XGBoost课件与源码
 
 # 开发环境
-菜菜的开发环境是Jupyter lab，所用的库和版本大家参考：
+菜菜的开发环境是Jupyter lab，所用的库和版本供大家参考，并非严格要求：
 - Python=3.7.1   （你的版本至少要3.4以上)  
 - Scikit-learn=0.20.0 （你的版本至少要0.19)  
 - Graphviz=0.8.4  (用于画决策树，安装命令conda install python-graphviz)  
+- Numpy=1.15.3
+- Pandas=0.23.4
+- Matplotlib=3.0.1
+= SciPy=1.1.0
